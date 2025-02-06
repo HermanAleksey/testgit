@@ -1,1 +1,12 @@
 hi!
+
+source nbranch
+
+
+feature/longterm
+dev
+
+
+git checkout new_branch
+git merge origin/source_branch
+git push
